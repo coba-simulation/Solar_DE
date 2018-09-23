@@ -8,4 +8,4 @@ Source of Data:
 
 Example Plot:
 
-![Solar_DE.png](https://github.com/coba-simulation/Solar_DE/Solar_map.png)
+![Solar_DE.png](https://github.com/coba-simulation/Solar_DE/blob/master/Solar_map.png?raw=true)
